@@ -1,3 +1,4 @@
+![BMI-CALCULATOR](https://github.com/nikhil-poojary/deploy/assets/39295234/bffd76fc-d75a-4110-a54b-58bb496a83c2)
 
 A BMI calculator website built on React JS is a web application that allows users to calculate their body mass index (BMI). BMI is a measure of body fat based on height and weight. It is calculated by dividing weight in kilograms by height in centimeters squared. A BMI of 25 or higher is considered overweight, and a BMI of 30 or higher is considered obese.
 
