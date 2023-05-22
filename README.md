@@ -7,3 +7,6 @@ A BMI calculator website built on React JS can be used by anyone, regardless of 
 The website can be used to track changes in BMI over time. This can be helpful for people who are trying to lose weight or maintain a healthy weight. The website can also be used to compare BMI with other people of similar height and weight. This can be helpful for people who are trying to determine if their BMI is within a healthy range.
 
 A BMI calculator website built on React JS is a valuable tool for anyone who is interested in their health and weight. The website is easy to use, informative, and can be used to track changes in BMI over time.
+
+1. Gained insights on react and react hooks.
+2. This delightful UI was created with React Material.
